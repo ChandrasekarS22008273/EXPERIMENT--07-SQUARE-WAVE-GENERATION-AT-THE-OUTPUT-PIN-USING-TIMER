@@ -91,8 +91,8 @@ Step14. click on debug and simulate using simulation as shown below
  ![image](https://github.com/vasanthkumarch/EXPERIMENT--07-SQUARE-WAVE-GENERATION-AT-THE-OUTPUT-PIN-USING-TIMER/assets/36288975/b8efbfc2-f0c5-4106-8117-3a6e7ac87f6c)
 
 
- ### DEVELOPED BY : AFSAR JUMAIL S
- ### REGISTER NO : 212222240004
+ ### DEVELOPED BY : Chandrasekar S
+ ### REGISTER NO : 212222230025
 
   
 
